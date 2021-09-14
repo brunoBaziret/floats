@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
+}
 
 .menu {
     height: 100px;
@@ -14,9 +14,10 @@
     width: 200px;
     height: 300px;
     background-color: #F09A9D;    /* Red */
- }
+}
   
 .content {
+    float: left;
     height: 500px;
     background-color: #F5CF8E;    /* Yellow */
 }
@@ -29,4 +30,4 @@
 .page {
     width: 900px;
     margin: 0 auto;
-  }
+}
